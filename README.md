@@ -1,5 +1,5 @@
 # reactfolder
-React folder guide regarding my prepes perspective.
+React folder guide regarding my perspective view for a dashboard or web app.
 
 
 
@@ -307,7 +307,6 @@ React folder guide regarding my prepes perspective.
     └── .env.development
     └── .env.production
     └── .gitignore
-    └── column.tsx
     └── components.json
     └── eslint.config.js
     └── index.html
